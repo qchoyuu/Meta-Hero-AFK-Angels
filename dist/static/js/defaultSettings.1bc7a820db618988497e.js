@@ -1,0 +1,2 @@
+webpackJsonp([24],{MVdT:function(e,a,o){"use strict";Object.defineProperty(a,"__esModule",{value:!0}),a.default={primaryColor:"#1890FF",navTheme:"light",layout:"sidemenu",contentWidth:"Fixed",fixedHeader:!1,fixSiderbar:!1,autoHideHeader:!1,colorWeak:!1,multipage:!0,storageOptions:{namespace:"pro__",name:"ls",storage:"local"}}}},["MVdT"]);
+//# sourceMappingURL=defaultSettings.1bc7a820db618988497e.js.map

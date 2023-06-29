@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'avbook';
+    src: url('../font/AvenirLTStd-Book.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'avpro';
+    src: url('../font/AvenirNextLTPro-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'avmed';
+    src: url('../font/AvenirLTStd-Medium.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'osb';
+    src: url('../font/Oswald-SemiBold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'mdem';
+    src: url('../font/AvenirNextLTPro-Demi.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'mreg';
+    src: url('../font/AvenirNextLTPro-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'avnextmed';
+    src: url('../font/AvenirNextMedium.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'demibold';
+    src: url('../font/AvenirNext-DemiBold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
